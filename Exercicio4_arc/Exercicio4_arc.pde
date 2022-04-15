@@ -1,0 +1,12 @@
+size(500, 500);
+background(255);
+noStroke();
+fill(150);
+arc(35, 125, 205, 205, PI+HALF_PI, TWO_PI+HALF_PI);
+arc(247, 125, 205, 205, HALF_PI, PI+HALF_PI);
+arc(253, 125, 205, 205, PI+HALF_PI, TWO_PI+HALF_PI);
+arc(465, 125, 205, 205, HALF_PI, PI+HALF_PI);
+arc(141, 235, 212, 224, 0, PI);
+arc(141, 465, 212, 224, PI, TWO_PI);
+arc(253, 350, 205, 230, PI+HALF_PI, TWO_PI+HALF_PI);
+arc(465, 350, 205, 230, HALF_PI, PI+HALF_PI);

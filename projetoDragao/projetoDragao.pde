@@ -1,0 +1,1 @@
+int[] cores = {#F5ABE9,#93F5F0,#6DA8A5,#F5ECC4,#A84598};
